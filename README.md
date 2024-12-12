@@ -1,4 +1,4 @@
-# GMsParchment
+# GMs Parchment
 Program for the M5Cardputer that allows DND (or other TTG) GM's to create things quickly
 
 
